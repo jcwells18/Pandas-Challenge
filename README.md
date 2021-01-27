@@ -49,3 +49,6 @@ Tables that highlight the top 5 and bottom 5 performing schools:
   * group schools based on school type (Charter vs. District)
 
 
+2 observations from the data:
+
+

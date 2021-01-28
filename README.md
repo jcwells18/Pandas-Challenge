@@ -51,6 +51,6 @@ Tables that highlight the top 5 and bottom 5 performing schools:
 
 2 observations from the data:
 - charter schools perform better than district schools
-- medium size schools have the highest overal passing %, but smaller schools have higher average math and reading scores
+- medium size schools have the highest overall passing %, but smaller schools have higher average math and reading scores
 
 
